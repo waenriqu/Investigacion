@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.20)  20 OCT 2013 22:41
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.20)  20 OCT 2013 22:48
 entering extended mode
 **plantilla.tex
 (C:\Users\Aumala\lenguajes\doc\plantilla.tex
-=======
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.10)  20 OCT 2013 22:38
-entering extended mode
-**plantilla.tex
-(C:\Users\WILSON\Documents\GitHub\Investigacion\doc\plantilla.tex
->>>>>>> 1eb59b4aff3ec2b141f5fc4bc6886157f99c6ee1
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -494,11 +487,7 @@ File: listings.cfg 2013/08/26 1.5b listings configuration
 ))
 Package: listings 2013/08/26 1.5b (Carsten Heinz)
 
-<<<<<<< HEAD
 (C:\Users\Aumala\lenguajes\doc\plantilla.aux)
-=======
-(C:\Users\WILSON\Documents\GitHub\Investigacion\doc\plantilla.aux)
->>>>>>> 1eb59b4aff3ec2b141f5fc4bc6886157f99c6ee1
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
 LaTeX Font Info:    ... okay on input line 63.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
@@ -581,13 +570,8 @@ Package pdftex.def Info: logosci.png used on input line 72.
 File: lstlang1.sty 2013/08/26 1.5b listings language file
 ) [1
 
-<<<<<<< HEAD
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Aumala/lenguajes
 /doc/logosci.png>]
-=======
-{C:/Users/WILSON/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/W
-ILSON/Documents/GitHub/Investigacion/doc/logosci.png>]
->>>>>>> 1eb59b4aff3ec2b141f5fc4bc6886157f99c6ee1
 
 Package Listings Warning: Text dropped after begin of listing on input line 85.
 
@@ -599,23 +583,15 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 87.
  [2]
-<<<<<<< HEAD
 (C:\Users\Aumala\lenguajes\doc\plantilla.aux) ) 
 Here is how much of TeX's memory you used:
  6026 strings out of 493921
  85138 string characters out of 3144872
-=======
-(C:\Users\WILSON\Documents\GitHub\Investigacion\doc\plantilla.aux) ) 
-Here is how much of TeX's memory you used:
- 6026 strings out of 493921
- 85285 string characters out of 3144872
->>>>>>> 1eb59b4aff3ec2b141f5fc4bc6886157f99c6ee1
  162822 words of memory out of 3000000
  9261 multiletter control sequences out of 15000+200000
  9092 words of font info for 32 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  44i,10n,43p,1094b,1354s stack positions out of 5000i,500n,10000p,200000b,50000s
-<<<<<<< HEAD
 <C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
@@ -624,16 +600,6 @@ nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 pe1/public/amsfonts/cm/cmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmti10.pfb>
-=======
-<C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
->>>>>>> 1eb59b4aff3ec2b141f5fc4bc6886157f99c6ee1
 Output written on plantilla.pdf (2 pages, 125929 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
