@@ -53,6 +53,7 @@
 
 \usepackage[spanish]{babel}
 \usepackage{listings} 
+
 %%% The "real" document content comes below...
 
 \title{Investigación de Lenguajes - Scilab}
@@ -170,15 +171,12 @@ Scilab Enterprises es fundada in junio del 2010 con el soporte de Inria, para ga
 
 \section{Hola Mundo y otros Programas Introductorios}
 
-\lstset{language=Pascal}          % Set your language (you can change the language for each code-block optionally)
 
-\begin{lstlisting}[frame=single]  % Start your code-block
-for i:=maxint to 0 do
-begin
-{ do nothing }
-end;
-Write('Case insensitive ');
-Write('Pascal keywords.');
+Aunque Scilab está orientado a las matemáticas, imprimir por pantalla mensajes de texto es muy sencillo. Esto se puede apreciar en el listing 1:
+\lstset{language=Scilab}          % Set your language (you can change the language for each code-block optionally)
+\begin{lstlisting}[caption= Código escrito en Scilab para imprimir por pantalla "Hola Mundo!", label=amb, frame=single]  % Start your code-block
+
+disp('Hola Mundo!')
 \end{lstlisting}
 
 
