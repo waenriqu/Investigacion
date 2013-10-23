@@ -171,13 +171,19 @@ Scilab Enterprises es fundada in junio del 2010 con el soporte de Inria, para ga
 
 \section{Hola Mundo y otros Programas Introductorios}
 
-
+Los siguientes programas pueden servir cómo un curso Introductorio para aquellos que desean aprender a usar Scilab. Para entenderlos, no es necesario tener un amplio conocimiento de programación.
+\\%
+\\%
+\textbf{Hola Mundo}
+\\%
 Aunque Scilab está orientado a las matemáticas, imprimir por pantalla mensajes de texto es muy sencillo. Esto se puede apreciar en el listing 1. Cualquier otro String que se quiera imprimir pude ser impreso en pantalla de la misma manera.
 \lstset{language=Scilab}          % Set your language (you can change the language for each code-block optionally)
 \begin{lstlisting}[caption= Código escrito en Scilab para imprimir por pantalla "Hola Mundo!", label=amb, frame=single]  % Start your code-block
 
 disp('Hola Mundo!')
 \end{lstlisting}
+
+\textbf{Sumar 2 numeros}
 
 Sumar es una de las operaciones elementales de la aritmética. En Scilab podemos crear un programa que sume dos números cualesquiera que ingresemos por teclado. Como se puede observar en el Listing 2, usando el comando 'input', fácilmente se pueden pedir números por teclado. Nótese que en ningún momento se tuvo que específicar un tipo de dato o que tipo de números se están pidiendo. Pueden ser negativos, decimales, enteros, entre otros pertenecientes a los reales. Se pude convertir este programa a uno que reste o que multiplique, sólo con sustituir el operador '+' por el que se desée.
 
@@ -189,5 +195,15 @@ y = input("Ingresa otro numero: ")
 disp(x+y)
 \end{lstlisting}
 
+Supongamos que tenemos un par de matrices. Multiplicar matrices es un proceso largo y tedioso. Afortunadamente Scilab puede resolver este problema rápidamente. En Scilab lás mátrices se pueden declarar rápidamente utilizando los correctos signos de puntuación. En el Listing 3 se observa cómo tras declarar las dos  matrices se las puede multiplicar utilizando el mismo número de líneas de código que en el programa anterior.
+
+\begin{lstlisting}[caption= Código escrito en Scilab para multiplicar dos matrices, label=amb, frame=single]  % Start your code-block
+
+x = [3, -1, 12; 4.6, 8, -71; 30, -2.3, -7]
+y = [16, 2, -4.5; -6, 53, 3.7; 11, -43, 1]
+disp('Programa para Multiplicar matrices')
+disp(x*y)
+
+\end{lstlisting}
 
 \end{document}
